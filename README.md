@@ -1,4 +1,4 @@
-# VIP Autonomous Robotics (GE AI) - Spring 2024
+# VIP - GE:AI Research - Spring 2024
 
 ## ❓ Introduction
 
