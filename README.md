@@ -1,4 +1,4 @@
-# VIP - GE:AI Research - Spring 2024
+# Autobot - GE Research
 
 ## ❓ Introduction
 
